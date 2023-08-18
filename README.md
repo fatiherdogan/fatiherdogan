@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Fatih</h1>
-<h3 align="left">Team Lead at Eren Holding</h3>
+<h3 align="left">Executive Software Engineering at Eren Holding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiherdogan&label=Profile%20views&color=0e75b6&style=flat" alt="fatiherdogan" /> </p>
 
